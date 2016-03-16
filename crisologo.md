@@ -32,4 +32,4 @@ References
 ----------
 
 
-[1] http://www.hydrol-earth-syst-sci.net/17/863/2013/hess-17-863-2013.pdf
+[1]: Wradlib http://www.hydrol-earth-syst-sci.net/17/863/2013/hess-17-863-2013.pdf
